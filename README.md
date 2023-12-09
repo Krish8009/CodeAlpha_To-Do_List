@@ -12,11 +12,6 @@ This is a simple to-do-list webpage
 - [Contributors](#contributors)
 
 
-# Are you excited to contribute under Hacktoberfest2022?😍
-
-## How to contribute <a name="how-to-contribute"></a>
-
-- Check [contributing.md file to contribute](https://github.com/avinash201199/To-Do-List/blob/main/CONTRIBUTING.md)
 - Star this repository.
 - Create an issue with the description of how you want to contribute to this project.
 - Wait to be assigned.
@@ -26,7 +21,6 @@ This is a simple to-do-list webpage
 - Pull request should have a screenshot of the changes you have made.
 - Wait for review.
 
-For contributing guidelines and standards, visit [contributing.md](https://github.com/avinash201199/To-Do-List/blob/main/CONTRIBUTING.md)
 
 ## 😎 Our Logo <a name = "logo"></a>
 <img src="./assets/images/logo.png" width=150px height=140px alt="logo">
