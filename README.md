@@ -4,12 +4,10 @@ This is a simple to-do-list webpage
 ## Website Link-
  <a href="https://avinash201199.github.io/To-Do-List/">To-Do-List</a>
 
- ## Table of Contents-
-- [How to contribute](#how-to-contribute)
+ ## Table of Contents
 - [Logo](#logo)
 - [Screenshots](#screenshots)
 - [Technology Stack](#tech_stack)
-- [Contributors](#contributors)
 
 
 - Star this repository.
